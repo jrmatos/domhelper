@@ -1,4 +1,6 @@
-# domhelper
+# DOM Helper
+
+A lite library to do fast DOM operations.
 
 
 --
